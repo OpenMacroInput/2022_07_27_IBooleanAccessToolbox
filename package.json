@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.omi.ibooleanaccesstoolbox",                              
+  "displayName": "IBooleanAccessToolbox",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Big toolbox of boolean operation for Unity project with an IBooleanAccess interface to ignore the origine of those boolean.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/OpenMacroInput/2022_07_27_IBooleanAccessToolbox.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
